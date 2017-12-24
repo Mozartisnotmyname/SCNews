@@ -1,0 +1,170 @@
+{"radio_list":
+  [{
+  	"name":"Light Music",
+    "country":"US",
+    "categories":"Classic",
+    "streamUrl":"http://www.radioswissclassic.ch/live/mp3.m3u",
+    "imageUrl":"https://img.dirble.com/station/28214/NEW_LOGO__copy.png"
+  },
+  {
+  	"name":"Aloe Radio",
+    "country":"US",
+    "categories":"Rock",
+    "streamUrl":"http://server10.servistreaming.com:9047/stream",
+    "imageUrl":"https://img.dirble.com/station/57491/b3e65ef9-988b-49d6-a77e-e2a434525ac7.jpg"
+  },
+  {
+  	"name":"Malayali FM",
+    "country":"US",
+    "categories":"Jazz",
+    "streamUrl":"http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth",
+    "imageUrl":"https://img.dirble.com/station/57475/c74b28bb-df84-4c59-b740-393df0b4e201.jpg"
+  },
+  {
+  	"name":"Radio Bolly FM",
+    "country":"Finland",
+    "categories":"Misc",
+    "streamUrl":"http://stream2.sbs.fi/voice.mp3",
+    "imageUrl":"https://img.dirble.com/station/55408/c175.png"
+  },
+  {
+    "name":"IndiFun Radio",
+    "country":"Finland",
+    "categories":"Rap",
+    "streamUrl":"http://stream2.sbs.fi/pooki.mp3",
+    "imageUrl":"https://img.dirble.com/station/50963/c175.png"
+  },
+  {
+    "name":"Radyo Selam",
+    "country":"Greenland",
+    "categories":"Variety",
+    "streamUrl":"http://listen.radionomy.com/R1Deep",
+    "imageUrl":"https://img.dirble.com/station/48151/c175.png"
+  },
+  {
+  	"name":"Radio IKIMfm Malaysia",
+    "country":"Finland",
+    "categories":"Variety",
+    "streamUrl":"http://185.52.127.172/fi/35017/mp3_128.mp3",
+    "imageUrl":"https://img.dirble.com/station/46976/c175.png"
+  },
+  {
+  	"name":"95.8FM Capital",
+    "country":"China",
+    "categories":"International",
+    "streamUrl":"http://mediacorp.rastream.com/958fm?awparams=stationid%3A958fm%3Btags%3Aradioactive&type=.mp3",
+    "imageUrl":"https://img.dirble.com/station/11565/original.png"
+  },
+  {
+  	"name":"Amor 104.3",
+    "country":"US",
+    "categories":"pop",
+    "streamUrl":"http://www.radioking.com/play/radio-score",
+    "imageUrl":"https://img.dirble.com/station/56904/f065893b-e2f5-4a36-a6a8-0195eb08e124.jpg"
+  },
+  {
+  	"name":"Animega",
+    "country":"US",
+    "categories":"pop",
+    "streamUrl":"http://198.143.144.226:8178/1",
+    "imageUrl":"https://img.dirble.com/station/57086/36c44868-ae4d-4757-9478-5bb888e45423.jpg"
+  },
+  {
+  	"name":"Manganime",
+    "country":"US",
+    "categories":"pop",
+    "streamUrl":"http://listen.radionomy.com/let-shearitforthegirls-",
+    "imageUrl":"https://img.dirble.com/station/20958/radio.jpg"
+  },
+  {
+  	"name":"J-Pop",
+    "country":"US",
+    "categories":"Pop",
+    "streamUrl":"http://stream.radiojavan.com",
+    "imageUrl":"https://img.dirble.com/station/12995/umslradio.png"
+  },
+  {
+  	"name":"JP Radio",
+    "country":"US",
+    "categories":"Pop",
+    "streamUrl":"http://stream.radio.co/sd37698701/listen",
+    "imageUrl":"https://img.dirble.com/station/39341/logomsradio.jpg"
+  },
+  {
+  	"name":"Utopic",
+    "country":"US",
+    "categories":"Pop",
+    "streamUrl":"http://streaming.streamonomy.com/xray",
+    "imageUrl":"https://img.dirble.com/station/28100/j6Gnmx5A.jpg"
+  },
+  {
+  	"name":"anime2u",
+    "country":"US",
+    "categories":"Classic",
+    "streamUrl":"https://streamer.radio.co/sb6c1ef561/listen",
+    "imageUrl":"https://img.dirble.com/station/57591/e9f4d621-3e27-4c3e-a721-f996ab854fef.jpg"
+  },
+  {
+  	"name":"Manga Radio",
+    "country":"US",
+    "categories":"Country",
+    "streamUrl":"https://streamer.radio.co/sb6c1ef561/listen",
+    "imageUrl":"https://img.dirble.com/station/57591/e9f4d621-3e27-4c3e-a721-f996ab854fef.jpg"
+  },
+  {
+  	"name":"ModSnap Radio",
+    "country":"US",
+    "categories":"Country",
+    "streamUrl":"http://198.204.252.110:8008/;livestream.mp3",
+    "imageUrl":"https://img.dirble.com/station/57045/7380ee4e-9c13-40b5-9983-8d566d762329.jpg"
+  },
+  {
+  	"name":"Country Line",
+    "country":"US",
+    "categories":"Country",
+    "streamUrl":"http://listen.shoutcast.com/countyline",
+    "imageUrl":"https://img.dirble.com/station/42504/d8b2296e-89ad-49e9-893e-49c550acd173.jpg"
+  },
+  {
+  	"name":"Toast Radio",
+    "country":"US",
+    "categories":"Folk",
+    "streamUrl":"http://198.204.252.110:8008/;livestream.mp3",
+    "imageUrl":"https://img.dirble.com/station/57045/7380ee4e-9c13-40b5-9983-8d566d762329.jpg"
+  },
+  {
+  	"name":"The Gauge",
+    "country":"France",
+    "categories":"Folk",
+    "streamUrl":"http://www.susehost.com:8000/",
+    "imageUrl":"https://img.dirble.com/station/39206/MSOTSfinal1tag1.jpg"
+  },
+  {
+  	"name":"nRP",
+    "country":"Austria",
+    "categories":"Classic Rock",
+    "streamUrl":"http://nrp.selfip.net:8000",
+    "imageUrl":"https://img.dirble.com/station/56959/76fb4d4f-9ea1-4806-9b3b-f8882b989622.jpg"
+   },
+   {
+   "name":"Radio Javan",
+   "country":"India",
+   "categories":"pop",
+   "streamUrl":"http://stream.radiojavan.com",
+   "imageUrl":"https://img.dirble.com/station/12995/umslradio.png"
+   },
+   {
+   "name":"Motiv8 Radio FM",
+   "country":"US",
+   "categories":"Rock",
+   "streamUrl":"http://198.204.252.110:8008/;livestream.mp3",
+   "imageUrl":"https://img.dirble.com/station/57045/7380ee4e-9c13-40b5-9983-8d566d762329.jpg"
+   },
+   {
+   "name":"Helen Doron Radio",
+   "country":"US",
+   "categories":"Helen Doron Radio",
+   "streamUrl":"http://server1.live1.co.il:8002/helendoron.mp3",
+   "imageUrl":"https://img.dirble.com/station/57144/c02a9377-7898-40f2-83d9-38da2b5ad7a8.jpg"
+   }]
+}
